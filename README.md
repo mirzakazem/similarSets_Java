@@ -1,8 +1,11 @@
 # similarSets_Java
 
 1- Get the association rules for triplets ( a,b --> c)
+
 2- Support used = 3 
+
 3- Confidence level = 0.75
+
 4- dataset consists of 20000 rows, 1886 orders and 7338 products.
 
 
